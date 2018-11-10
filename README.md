@@ -1,4 +1,6 @@
 # Venmo
+This code is written in python. I ran this code using Anaconda Prompt.
+
 How to run the code:
 
 step 1: Put the both vemo_calc.py and venmo-trans.txt file in the same folder
